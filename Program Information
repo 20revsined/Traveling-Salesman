@@ -1,0 +1,17 @@
+This program is a derivative of the traveling salesman problem, in which a delivery service must deliver packages to certain locations
+in a fictional city, Homerville, to various houses and apartments in 2 apartment complexes, the Bart Complex and Lisa Complex, in
+the fewest amount of time, the lowest cost, and the fewest number of trucks and workers.
+There are 10 txt files that are read into the program, and each txt file contains the number of packages that must be delivered,
+the addresses of the houses and apartment complexes, and the day of the txt files.
+
+Homerville is divded into streets and avenues, with a certain amount of streets and avenues for each.
+
+To learn more about the traveling salesman problem, click here: https://en.wikipedia.org/wiki/Travelling_salesman_problem.
+
+The algorithm used in this program is the Nearest Neighbor algorithm.
+
+To learn more about the Nearest Neighbor Algorithm, click here: https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm.
+
+***YOU ARE NOT ALLOWED TO USE THIS PROGRAM WITHOUT PERMISSION FROM THE DEVELOPER!***
+
+To request permission, please email the developer at githubuser7201@gmail.com, and please describe why you want to use this program.
